@@ -1,0 +1,27 @@
+form{
+    margin: auto;
+    max-width: 500px;
+}
+h2{
+    margin-top: 2%;
+}
+#file{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+input{
+    border-color: wheat;
+    box-shadow: burlywood;
+    border-radius: 20%;
+    height: 30px;
+    width: 45%;
+    margin-bottom: 5%;
+}
+#submit{
+    width: 15%;
+}
+#user{
+    margin: auto;
+    max-width: 500px;
+    font-size: 20px;
+}
